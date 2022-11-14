@@ -14,11 +14,6 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
 </div>
 </br>
@@ -35,7 +30,7 @@
 # Place to Play
 
 Projet final cloturant la session Fullstack summer 22 de ✨ **The Hacking Project.** ✨
-[Visiter Place to Play 🎤](https://place-to-play.herokuapp.com/)
+[Visiter Place to Play 🎤]()
 
 <div align="center">
 
@@ -43,9 +38,17 @@ Projet final cloturant la session Fullstack summer 22 de ✨ **The Hacking Proje
 Imaginez que vous êtes un musicien passioné, rêvant tous les soirs de partager son art avec le public mais ne sachant pas comment démarcher les lieux où les gens se retrouvent. Ou bien, que vous êtes un patron d'établissement enviant vos concurrents capables de rassembler un public qui dansera et donc consommera plus, mais vous ne savez pas comment trouver les artistes qui créeront l'émulation. 
 C'est pourquoi nous avons pensé ✨ **Place to Play** ✨, une application géniale permettant aux artistes et établissements de se connecter simplement en optimisant leurs recherches face à leurs attentes.
 
+## Prévisualisation:
 
+### Page d'accueil:
+<img src="./lib/assets/placetoplay_home.png">
 
-[How to acces](#How-to-acces)
+### Page d'enregistrement:
+<img src="./lib/assets/placetoplay_profilcreation.png">
+
+### Page création profil pour un musicien:
+<img src="./lib/assets/placetoplay_register.png">
+
 
 [User Experience](#User-Experience)
 
@@ -58,11 +61,6 @@ C'est pourquoi nous avons pensé ✨ **Place to Play** ✨, une application gén
 [User Experience](#User-Experience)
 
 </div>
-
-
-## How to acces
-
-↳ [PlacetoPlay](https://place-to-play.herokuapp.com/) 🎤 
 
 
 ## User Experience
@@ -84,9 +82,7 @@ C'est pourquoi nous avons pensé ✨ **Place to Play** ✨, une application gén
 </br>
 
 
-## Authors Details:
-
-👤 **the famous and infamous Vocal_15**
+## Auteurs de ce projet:
 
 - [@Chreees79](https://github.com/Chreees79)
 - [@GuillaumeBrthlt](https://github.com/GuillaumeBrthlt)
@@ -96,16 +92,10 @@ C'est pourquoi nous avons pensé ✨ **Place to Play** ✨, une application gén
 </br>
 
 
-## Show your support
+## Soutenez-nous!
 
-[Un Dev A La Mer](http://www.devalamer.fr/)
 
-Give us a ⭐ Star on GitHub — it helps!
+Donnez-nous une ⭐ sur Github --cela aide!
 
 </br>
 
-### 😂 Here is a random joke that'll make you laugh!
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
