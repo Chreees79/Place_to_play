@@ -1,7 +1,7 @@
 <div align="center">
 
 # Place to Play
-<a href='https://placetoplay.fly.dev/'><img alt='Apple Music' src='https://img.shields.io/badge/Place_to Play-100000?style=for-the-badge&logo=Apple Music&logoColor=white&labelColor=000000&color=FA9612'/></a>
+<a href='https://placetoplay.fly.dev/'target='_blank'><img alt='Apple Music' src='https://img.shields.io/badge/Place_to Play-100000?style=for-the-badge&logo=Apple Music&logoColor=white&labelColor=000000&color=FA9612'/></a>
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -30,7 +30,7 @@
 # Place to Play
 
 Projet final cloturant la session Fullstack summer 22 de ✨ **The Hacking Project.** ✨
-[Visiter Place to Play 🎤]('https://placetoplay.fly.dev/')
+[Visiter Place to Play 🎤](https://placetoplay.fly.dev/)
 
 <div align="center">
 
