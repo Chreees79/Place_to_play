@@ -30,7 +30,7 @@
 # Place to Play
 
 Projet final cloturant la session Fullstack summer 22 de ✨ **The Hacking Project.** ✨
-[Visiter Place to Play 🎤]()
+[Visiter Place to Play 🎤]('https://placetoplay.fly.dev/')
 
 <div align="center">
 
